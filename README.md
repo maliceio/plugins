@@ -1,5 +1,10 @@
-# plugins
-Malice Plugins
+<p align="center">
+  <img alt="Malice Logo" src="https://avatars3.githubusercontent.com/u/29681275?v=3&s=200" height="140" />
+  <h3 align="center">malice-plugins</h3>
+  <p align="center">Collection of Malice Plugins</p>
+</p>
+
+---
 
 https://github.com/malice-plugins
 
