@@ -6,6 +6,14 @@
 
 ---
 
+What should I focus on next?
+----------------------------
+
+[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/pdf)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/pdf/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript/vote)
+
+Official Plugins
+----------------
+
 | Name                                                             | Description                               | Enabled | Image                | Category | Mime                   |
 |:-----------------------------------------------------------------|:------------------------------------------|:--------|:---------------------|:---------|:-----------------------|
 | [nsrl](https://github.com/malice-plugins/nsrl)                   | NSRL Database Hash Search                 | true    | malice/nsrl          | intel    | hash                   |
@@ -17,15 +25,15 @@
 | [yara](https://github.com/malice-plugins/yara)                   | YARA Scan                                 | true    | malice/yara          | av       | \*                     |
 | [avast](https://github.com/malice-plugins/avast)                 | Avast AntiVirus                           | true    | malice/avast         | av       | \*                     |
 | [avg](https://github.com/malice-plugins/avg)                     | AVG AntiVirus                             | true    | malice/avg           | av       | \*                     |
-| [avira](https://github.com/malice-plugins/avira)                 | Avira AntiVirus                           | false   | malice/avira         | av       | *                      |
+| [avira](https://github.com/malice-plugins/avira)                 | Avira AntiVirus                           | false   | malice/avira         | av       | \*                     |
 | [bitdefender](https://github.com/malice-plugins/bitdefender)     | Bitdefender AntiVirus                     | true    | malice/bitdefender   | av       | \*                     |
 | [clamav](https://github.com/malice-plugins/clamav)               | ClamAV                                    | true    | malice/clamav        | av       | \*                     |
 | [comodo](https://github.com/malice-plugins/comodo)               | Comodo AntiVirus                          | true    | malice/comodo        | av       | \*                     |
-| [escan](https://github.com/malice-plugins/escan)                 | eScan AntiVirus                           | true    | malice/escan         | av       | *                      |
+| [escan](https://github.com/malice-plugins/escan)                 | eScan AntiVirus                           | true    | malice/escan         | av       | \*                     |
 | [fprot](https://github.com/malice-plugins/fprot)                 | F-PROT AntiVirus                          | true    | malice/fprot         | av       | \*                     |
 | [fsecure](https://github.com/malice-plugins/fsecure)             | F-Secure AntiVirus                        | true    | malice/fsecure       | av       | \*                     |
 | [sophos](https://github.com/malice-plugins/sophos)               | Sophos AntiVirus                          | true    | malice/sophos        | av       | \*                     |
-| [zoner](https://github.com/malice-plugins/zoner)                 | ZonerAntiVirus                            | true    | malice/zoner         | av       | *                      |
+| [zoner](https://github.com/malice-plugins/zoner)                 | ZonerAntiVirus                            | true    | malice/zoner         | av       | \*                     |
 | [exe](https://github.com/malice-plugins/exe)                     | EXE - tool to triage portable executables | false   | malice/exe           | exe      | application/x-dosexec  |
 | [floss](https://github.com/malice-plugins/floss)                 | FireEye Labs Obfuscated String Solver     | true    | malice/floss         | exe      | application/x-dosexec  |
 | [office](https://github.com/malice-plugins/office)               | Office - tool to triage OLE/RTF documents | false   | malice/office        | document | \*                     |
