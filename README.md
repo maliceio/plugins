@@ -11,7 +11,7 @@ What should I focus on next?
 
 > *please click on one*
 
-[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/pdf)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/pdf/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript/vote)
+[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/exe/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/office/vote)[![](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript)](https://api.gh-polls.com/poll/01BT6W330F89J7VM19G4EDRT5K/javascript/vote)
 
 Official Plugins
 ----------------
