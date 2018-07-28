@@ -39,6 +39,6 @@ Official Plugins
 | [exe](https://github.com/malice-plugins/exe)                     | EXE - tool to triage portable executables | false   | malice/exe           | exe      | application/x-dosexec  |
 | [floss](https://github.com/malice-plugins/floss)                 | FireEye Labs Obfuscated String Solver     | true    | malice/floss         | exe      | application/x-dosexec  |
 | [office](https://github.com/malice-plugins/office)               | Office - tool to triage OLE/RTF documents | false   | malice/office        | document | \*                     |
-| [pdf](https://github.com/malice-plugins/pdf)                     | PDF - tool to triage PDF documents        | false   | malice/pdf           | document | application/pdf        |
+| [pdf](https://github.com/malice-plugins/pdf)                     | PDF - tool to triage PDF documents        | true   | malice/pdf           | document | application/pdf        |
 | [javascript](https://github.com/malice-plugins/javascript)       | Javascript - tool to triage JS scripts    | false   | malice/javascript    | document | application/javascript |
 | [archive](https://github.com/malice-plugins/archive)             | Archive - tool to unarchive archives      | false   | malice/archive       | archive  | archive                |
