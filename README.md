@@ -18,7 +18,7 @@
 | :--------------------------------------------------------------------- | :------------------------------------------- | :----------------- | :---------------------- | :------- | :--------------------- |
 | [nsrl](https://github.com/malice-plugins/nsrl)                         | NSRL Database Hash Search                    | :white_check_mark: | malice/nsrl             | intel    | hash                   |
 | [virustotal](https://github.com/malice-plugins/virustotal)             | VirusTotal - files scan and hash lookup      | :white_check_mark: | malice/virustotal       | intel    | hash                   |
-| [totalhash](https://github.com/malice-plugins/totalhash)               | #totalhash - hash lookup                     | :white_check_mark: | malice/totalhash        | intel    | hash                   |
+| [totalhash](https://github.com/malice-plugins/totalhash)               | #totalhash - hash lookup                     | :x:                | malice/totalhash        | intel    | hash                   |
 | [shadow-server](https://github.com/malice-plugins/shadow-server)       | ShadowServer - hash lookup                   | :white_check_mark: | malice/shadow-server    | intel    | hash                   |
 | [team-cymru](https://github.com/malice-plugins/team-cymru)             | TeamCymru - hash lookup                      | :x:                | malice/team-cymru       | intel    | hash                   |
 | [fileinfo](https://github.com/malice-plugins/fileinfo)                 | ssdeep/TRiD/exiftool                         | :white_check_mark: | malice/fileinfo         | metadata | \*                     |
