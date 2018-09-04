@@ -32,7 +32,7 @@
 | [escan](https://github.com/malice-plugins/escan)                       | eScan AntiVirus                              | :white_check_mark: | malice/escan            | av       | \*                     |
 | [fprot](https://github.com/malice-plugins/fprot)                       | F-PROT AntiVirus                             | :white_check_mark: | malice/fprot            | av       | \*                     |
 | [fsecure](https://github.com/malice-plugins/fsecure)                   | F-Secure AntiVirus                           | :white_check_mark: | malice/fsecure          | av       | \*                     |
-| [mcafee](https://github.com/malice-plugins/mcafee)                     | McAfee AntiVirus                             | :x:                | malice/mcafee           | av       | \*                     |
+| [mcafee](https://github.com/malice-plugins/mcafee)                     | McAfee AntiVirus                             | :white_check_mark:                | malice/mcafee           | av       | \*                     |
 | [sophos](https://github.com/malice-plugins/sophos)                     | Sophos AntiVirus                             | :white_check_mark: | malice/sophos           | av       | \*                     |
 | [windows-defender](https://github.com/malice-plugins/windows-defender) | Windows Defender AntiVirus                   | :white_check_mark: | malice/windows-defender | av       | \*                     |
 | [zoner](https://github.com/malice-plugins/zoner)                       | ZonerAntiVirus                               | :white_check_mark: | malice/zoner            | av       | \*                     |
